@@ -1,0 +1,291 @@
+[
+  {
+    "image": "https://i.ibb.co.com/vxBWhVVw/joshborup-facebook-2429746-1280.png",
+    "title": "Facebook",
+    "companyName": "Meta",
+    "id": 1,
+    "description": "Facebook is a social media platform where users can connect with friends, share posts, upload photos and videos, join groups, and follow pages worldwide.",
+    "size": 125,
+    "reviews": 120,
+    "ratingAvg": 4.3,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cMvVsfN/sllmnht-yt-6273367-1280.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 2,
+    "description": "YouTube is a video streaming platform where users can watch, upload, and share videos including music, tutorials, gaming, and live streams.",
+    "size": 200,
+    "reviews": 150,
+    "ratingAvg": 4.5,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 9400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qY5Zznm5/danneiva-whatsapp-873316-1280.png",
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "id": 3,
+    "description": "WhatsApp is a secure messaging app for sending texts, voice messages, and making voice and video calls with end-to-end encryption.",
+    "size": 220,
+    "reviews": 180,
+    "ratingAvg": 4.4,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HT4TjZ0N/raphaelsilva-instagram-3814080-1280.jpg",
+    "title": "Instagram",
+    "companyName": "Meta",
+    "id": 4,
+    "description": "Instagram allows users to share photos, reels, and stories, follow friends and celebrities, and explore trending visual content.",
+    "size": 280,
+    "reviews": 130,
+    "ratingAvg": 4.4,
+    "downloads": 200,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 950000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 7800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mrKhh65b/coy-muse-tiktok-7411567-1280.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 5,
+    "description": "TikTok is a short-video platform for creating and watching entertaining videos with music, filters, and viral trends.",
+    "size": 295,
+    "reviews": 100,
+    "ratingAvg": 4.2,
+    "downloads": 300,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6RNF21jd/memed-nurrohmad-tag-1873545-1280.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Google Maps helps users find directions, explore places, check traffic updates, and navigate with real-time GPS tracking.",
+    "size": 270,
+    "reviews": 900,
+    "ratingAvg": 4.6,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 5850000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZM9cmSX/sayyid96-technology-7002906-1280.png",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd",
+    "id": 7,
+    "description": "Spotify is a music streaming service where users can listen to millions of songs, create playlists, and enjoy podcasts.",
+    "size": 285,
+    "reviews": 700,
+    "ratingAvg": 4.5,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4150000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/F4PRtmST/sllmnht-telegram-6896827-1280.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 8,
+    "description": "Telegram is a cloud-based messaging app offering secure chats, large groups, channels, and bots.",
+    "size": 160,
+    "reviews": 60,
+    "ratingAvg": 4.3,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 450000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 3550000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FkrvKKqz/shadefx-messenger-6022337-1280.png",
+    "title": "Messenger",
+    "companyName": "Meta",
+    "id": 9,
+    "description": "Messenger allows instant messaging, voice and video calls, and media sharing with friends and contacts.",
+    "size": 270,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Wp6Dq581/download.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 10,
+    "description": "Netflix is a streaming platform offering movies, TV shows, and original series with personalized recommendations.",
+    "size": 110,
+    "reviews": 900,
+    "ratingAvg": 4.4,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z1mshnyZ/download-1.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 11,
+    "description": "Gmail is an email service for sending, receiving, and organizing emails with strong spam protection.",
+    "size": 155,
+    "reviews": 1000,
+    "ratingAvg": 4.5,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6620000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VcPVXMS1/wikimediaimages-google-chrome-1326908-640.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Google Chrome is a fast and secure web browser with syncing, bookmarks, and password management features.",
+    "size": 175,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 5250000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zz3zr0cG/meesgroothuis-video-call-phone-5914058-640.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 13,
+    "description": "Zoom is used for online meetings, classes, and webinars with screen sharing and recording features.",
+    "size": 85,
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2900000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yF8HFcWr/kirstyfields-amazon-2183855-640.png",
+    "title": "Amazon",
+    "companyName": "Amazon Inc.",
+    "id": 14,
+    "description": "Amazon is an online shopping app for purchasing products, tracking orders, and reading reviews.",
+    "size": 95,
+    "reviews": 850,
+    "ratingAvg": 4.4,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 650000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 4700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Rpcb1DB8/terilynn-google-1632434-640.png",
+    "title": "Google Play Store",
+    "companyName": "Google LLC",
+    "id": 15,
+    "description": "Google Play Store allows downloading apps, games, movies, and books with ratings and recommendations.",
+    "size": 130,
+    "reviews": 110,
+    "ratingAvg": 4.3,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YBymbvMN/janjf93-camera-1933338-640.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 16,
+    "description": "Google Photos provides cloud backup, smart organization, and easy sharing of photos and videos.",
+    "size": 165,
+    "reviews": 700,
+    "ratingAvg": 4.5,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4220000 }
+    ]
+  }
+]
+ 
