@@ -4,6 +4,7 @@ import Home from "../Component/Home";
 import ProductDetaila from "../Component/ProductDetaila";
 import Products from "../Component/Products";
 import Wishlist from "../Component/Wishlist";
+import ErrorPage from "../Component/ErrorPage";
 
 
 
@@ -18,6 +19,7 @@ export const router = createBrowserRouter([
     {
         path:'/',
         Component: MainlayOut,
+        errorElement: <ErrorPage></ErrorPage>,
         children:[
           {
              index: true,

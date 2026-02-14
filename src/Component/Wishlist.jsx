@@ -10,6 +10,7 @@ import {
 } from "recharts";
 import rating from "../assets/icon-ratings.png";
 import download from "../assets/icon-downloads.png";
+import { toast } from "react-toastify";
 
 const Wishlist = () => {
   const [wishlish, setWishlish] = useState([]);
@@ -40,6 +41,7 @@ const Wishlist = () => {
     setWishlish(updateList);
 
     localStorage.setItem("wishlish", JSON.stringify(updateList));
+    toast.success('Successfully Deleted')
   };
 
   return (
@@ -102,25 +104,7 @@ const Wishlist = () => {
           </div>
         ))}
       </div>
-      {/* ...chart..  */}
-      {/* <div className="space-y-3">
-        <h3 className="text-xl font-semibold">Wishlish</h3>
-
-        <div className="bg-base-100 rounded-xl p-4 h-80">
-          <ResponsiveContainer width='100A% ' height='100%'>
-            <BarChart data={wishlish}>
-              <CartesianGrid strokeDasharray="3 3">
-           
-
-              </CartesianGrid>
-                   <XAxis dataKey="category"></XAxis>
-                   <Tooltip></Tooltip>
-                   <Legend></Legend>
-                   <Bar dataKey='price' fill='#82ca9d'></Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-      </div> */}
+      
     </div>
   );
 };

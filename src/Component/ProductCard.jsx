@@ -8,7 +8,7 @@ const ProductCard = ({ product }) => {
   return (
     <div className="">
       <Link to={`/product/${id}`}>
-        <div className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out border ">
+        <div className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out  ">
           <figure>
             <img
               src={image}
