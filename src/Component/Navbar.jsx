@@ -12,6 +12,9 @@ const Navbar = () => {
       <li className="text-black">
         <MyLink to="/products">Apps</MyLink>
       </li>
+      <li className="text-black">
+        <MyLink to="/wishlish">Download</MyLink>
+      </li>
     </>
   );
 

@@ -3,6 +3,7 @@ import MainlayOut from "../LayOut/MainlayOut";
 import Home from "../Component/Home";
 import ProductDetaila from "../Component/ProductDetaila";
 import Products from "../Component/Products";
+import Wishlist from "../Component/Wishlist";
 
 
 
@@ -31,6 +32,10 @@ export const router = createBrowserRouter([
         path: "/products",
        Component: Products
       },
+       {
+        path: "/wishlish",
+       Component: Wishlist
+      }
         ]
     }
 ])

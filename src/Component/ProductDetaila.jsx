@@ -4,6 +4,7 @@ import useProducts from "../Hook/useProducts";
 import down from "../assets/icon-downloads.png";
 import rating from "../Component/../assets/icon-ratings.png";
 import like from "../Component/../assets/icon-review.png";
+import { toast } from "react-toastify";
 
 const ProductDetaila = () => {
   const { id } = useParams();
@@ -33,11 +34,14 @@ const ProductDetaila = () => {
     let updateList = [];
 
     if (existinglish) {
+      
       const isDuplicate = existinglish.some((p) => p.id === product.id);
+      
 
-      if (isDuplicate) return alert("sorrrrrrrr");
+      if (isDuplicate) {return toast.error('Alredy Download')}
 
       updateList = [...existinglish, product];
+       toast.success('Successfully Download ')
     } else {
       updateList.push(product);
     }
