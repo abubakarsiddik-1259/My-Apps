@@ -10,7 +10,7 @@ const Navbar = () => {
       </li>
 
       <li className="text-black">
-        <MyLink to="/proflie">Apps</MyLink>
+        <MyLink to="/products">Apps</MyLink>
       </li>
     </>
   );
