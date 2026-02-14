@@ -4,7 +4,8 @@
     "title": "Facebook",
     "companyName": "Meta",
     "id": 1,
-    "description": "Facebook is a social media platform where users can connect with friends, share posts, upload photos and videos, join groups, and follow pages worldwide.",
+       "description": "Facebook is one of the largest social media platforms in the world, designed to help people connect and communicate globally. Users can create personal profiles, add friends, follow pages, and join groups based on shared interests. The platform allows sharing text posts, photos, videos, live streams, and temporary stories. Facebook Groups create communities for discussion, collaboration, and event planning, while Pages help businesses and creators promote their brands. Marketplace enables buying and selling products locally. Users can react, comment, and share posts to engage with content. Integrated Messenger allows instant messaging and video calls. Facebook also provides advanced privacy controls, security settings, and targeted advertising tools for businesses. With billions of active users, Facebook combines communication, entertainment, marketing, and community building into one powerful digital ecosystem."
+,
     "size": 125,
     "reviews": 120,
     "ratingAvg": 4.3,
@@ -22,7 +23,7 @@
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 2,
-    "description": "YouTube is a video streaming platform where users can watch, upload, and share videos including music, tutorials, gaming, and live streams.",
+    "description": "YouTube is a global video-sharing and streaming platform where users can watch, upload, and share videos across many categories including music, education, gaming, tutorials, entertainment, and live events. Users can subscribe to channels, like and comment on videos, create playlists, and receive personalized recommendations based on viewing history. Creators can monetize content through advertisements, memberships, and partnerships. YouTube Studio provides analytics tools to track performance and audience engagement. Features like YouTube Shorts support short-form vertical videos, while live streaming allows real-time interaction. Offline viewing, subtitles, and parental controls improve accessibility. Businesses and educators use YouTube for marketing and knowledge sharing. With billions of daily views, YouTube has transformed digital entertainment and global learning.",
     "size": 200,
     "reviews": 150,
     "ratingAvg": 4.5,
@@ -40,7 +41,8 @@
     "title": "WhatsApp",
     "companyName": "Meta",
     "id": 3,
-    "description": "WhatsApp is a secure messaging app for sending texts, voice messages, and making voice and video calls with end-to-end encryption.",
+       "description": "WhatsApp is a secure messaging application that enables users to send instant text messages, voice notes, images, videos, documents, and contacts. It supports high-quality voice and video calls, including group calls, all protected with end-to-end encryption for privacy. Users can create group chats, broadcast lists, and communities for better organization. The Status feature allows sharing updates that disappear after 24 hours. WhatsApp Web and desktop versions allow cross-device synchronization. Features like live location sharing, disappearing messages, and chat backups improve functionality. WhatsApp Business helps companies connect with customers through automated replies and catalogs. With strong privacy protections and simple design, WhatsApp remains one of the most trusted communication apps worldwide."
+,
     "size": 220,
     "reviews": 180,
     "ratingAvg": 4.4,
@@ -58,7 +60,8 @@
     "title": "Instagram",
     "companyName": "Meta",
     "id": 4,
-    "description": "Instagram allows users to share photos, reels, and stories, follow friends and celebrities, and explore trending visual content.",
+        "description": "Instagram is a visual-focused social networking platform where users share photos, reels, and stories. It offers creative tools such as filters, effects, music integration, and editing options to enhance content. Users can follow friends, celebrities, and brands, engage through likes and comments, and communicate using direct messages. The Explore page suggests trending and personalized content. Instagram Live enables real-time streaming, while shopping features allow businesses to sell directly through the app. Influencers use Instagram to build personal brands and collaborate with companies. Privacy settings and account controls provide user safety. Instagram plays a major role in digital culture and online marketing."
+,
     "size": 280,
     "reviews": 130,
     "ratingAvg": 4.4,
@@ -76,7 +79,8 @@
     "title": "TikTok",
     "companyName": "ByteDance",
     "id": 5,
-    "description": "TikTok is a short-video platform for creating and watching entertaining videos with music, filters, and viral trends.",
+        "description": "TikTok is a short-form video platform that allows users to create and watch engaging videos with music, filters, and special effects. The app’s For You page uses advanced algorithms to personalize content based on user interests. People participate in viral challenges, trends, and creative storytelling. TikTok supports live streaming and creator monetization through gifts and partnerships. Businesses use TikTok for brand promotion and influencer marketing. Its simple editing tools and wide reach make it one of the fastest-growing entertainment platforms globally."
+,
     "size": 295,
     "reviews": 100,
     "ratingAvg": 4.2,
@@ -94,7 +98,8 @@
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 6,
-    "description": "Google Maps helps users find directions, explore places, check traffic updates, and navigate with real-time GPS tracking.",
+        "description": "Google Maps is a powerful navigation service that provides real-time GPS directions, traffic updates, and route optimization. Users can explore nearby restaurants, hotels, and attractions with ratings and reviews. Street View offers immersive visual navigation. Offline maps allow usage without internet. Businesses can manage listings and respond to reviews. Google Maps is widely used for travel planning, commuting, and discovering new places."
+,
     "size": 270,
     "reviews": 900,
     "ratingAvg": 4.6,
@@ -112,7 +117,8 @@
     "title": "Spotify",
     "companyName": "Spotify Ltd",
     "id": 7,
-    "description": "Spotify is a music streaming service where users can listen to millions of songs, create playlists, and enjoy podcasts.",
+        "description": "Spotify is a leading music streaming platform offering millions of songs and podcasts. Users can create playlists, follow artists, and receive personalized recommendations like Discover Weekly. Offline downloads allow listening without internet. Spotify supports podcasts, audiobooks, and exclusive shows. Artists can distribute music globally and analyze performance data. High-quality streaming and cross-device syncing create a seamless audio experience."
+,
     "size": 285,
     "reviews": 700,
     "ratingAvg": 4.5,
@@ -130,7 +136,8 @@
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 8,
-    "description": "Telegram is a cloud-based messaging app offering secure chats, large groups, channels, and bots.",
+        "description": "Telegram is a cloud-based messaging app focused on speed and security. It supports large groups, broadcast channels, bots, and large file sharing. Secret chats offer end-to-end encryption. Users can customize themes and stickers. Telegram syncs messages across devices instantly. Channels allow creators to broadcast to unlimited subscribers."
+,
     "size": 160,
     "reviews": 60,
     "ratingAvg": 4.3,
@@ -148,7 +155,8 @@
     "title": "Messenger",
     "companyName": "Meta",
     "id": 9,
-    "description": "Messenger allows instant messaging, voice and video calls, and media sharing with friends and contacts.",
+       "description": "Messenger is an instant messaging app connected to Facebook. It allows text chats, voice messages, video calls, and group conversations. Users can send photos, videos, stickers, and reactions. Messenger Rooms enable large group video meetings. Businesses use Messenger for customer communication and automation."
+,
     "size": 270,
     "reviews": 800,
     "ratingAvg": 4.3,
@@ -166,7 +174,8 @@
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "id": 10,
-    "description": "Netflix is a streaming platform offering movies, TV shows, and original series with personalized recommendations.",
+       "description": "Netflix is a subscription-based streaming service offering movies, TV shows, and original series. It provides personalized recommendations based on viewing habits. Users can download content for offline viewing and create multiple profiles. Parental controls ensure family-friendly usage."
+,
     "size": 110,
     "reviews": 900,
     "ratingAvg": 4.4,
@@ -184,7 +193,8 @@
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 11,
-    "description": "Gmail is an email service for sending, receiving, and organizing emails with strong spam protection.",
+        "description": "Gmail is a free email service with advanced spam filtering and security. Users can organize emails using labels, filters, and categories. It integrates with Google Workspace apps like Drive and Calendar. Gmail provides large storage and strong account protection."
+,
     "size": 155,
     "reviews": 1000,
     "ratingAvg": 4.5,
@@ -202,7 +212,8 @@
     "title": "Google Chrome",
     "companyName": "Google LLC",
     "id": 12,
-    "description": "Google Chrome is a fast and secure web browser with syncing, bookmarks, and password management features.",
+        "description": "Google Chrome is a fast and secure web browser known for speed and simplicity. It syncs bookmarks, passwords, and history across devices. Chrome supports extensions and developer tools. Incognito mode enhances privacy while browsing."
+,
     "size": 175,
     "reviews": 950,
     "ratingAvg": 4.4,
@@ -220,7 +231,8 @@
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
     "id": 13,
-    "description": "Zoom is used for online meetings, classes, and webinars with screen sharing and recording features.",
+        "description": "Zoom is a video conferencing platform used for meetings, classes, and webinars. It offers screen sharing, breakout rooms, chat, and recording features. Zoom became essential for remote work and online education."
+,
     "size": 85,
     "reviews": 600,
     "ratingAvg": 4.2,
@@ -238,7 +250,8 @@
     "title": "Amazon",
     "companyName": "Amazon Inc.",
     "id": 14,
-    "description": "Amazon is an online shopping app for purchasing products, tracking orders, and reading reviews.",
+        "description": "Amazon is a leading e-commerce platform where users can purchase millions of products. Features include customer reviews, order tracking, secure payments, and fast delivery options. Amazon also offers digital services like Prime Video."
+,
     "size": 95,
     "reviews": 850,
     "ratingAvg": 4.4,
@@ -256,7 +269,8 @@
     "title": "Google Play Store",
     "companyName": "Google LLC",
     "id": 15,
-    "description": "Google Play Store allows downloading apps, games, movies, and books with ratings and recommendations.",
+      "description": "Google Play Store is the official marketplace for Android apps, games, movies, and books. It provides ratings, reviews, and personalized recommendations. Developers distribute applications globally through the platform."
+,
     "size": 130,
     "reviews": 110,
     "ratingAvg": 4.3,
@@ -274,7 +288,8 @@
     "title": "Google Photos",
     "companyName": "Google LLC",
     "id": 16,
-    "description": "Google Photos provides cloud backup, smart organization, and easy sharing of photos and videos.",
+        "description": "Google Photos is a cloud-based storage service that automatically backs up photos and videos. It uses smart organization, facial recognition, and search tools to find memories easily. Sharing albums and editing tools enhance user experience."
+,
     "size": 165,
     "reviews": 700,
     "ratingAvg": 4.5,

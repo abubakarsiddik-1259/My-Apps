@@ -9,12 +9,12 @@ const Bannar = () => {
           <span className="bg-gradient-to-r from-[#632EE3] to-[#632EE3] bg-clip-text text-transparent">
             Productive
           </span>{" "}
-           Apps
+           Apps
         </h1>
         <p className=" pt-6 text-[#627382]  ">
-          At HERO.IO , we craft innovative apps designed to make everyday life
+          At HERO.IO , we craft innovative apps designed to make everyday life
           simpler, smarter, and more exciting. <br />
-           Our goal is to turn your ideas into digital experiences that truly
+          Our goal is to turn your ideas into digital experiences that truly
           make an impact.
         </p>
         <div className="mt-10 ">

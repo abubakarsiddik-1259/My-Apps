@@ -6,3 +6,17 @@
 
 
 
+.primary-gradient {
+  @apply bg-gradient-to-r from-[#632EE3] to-[#9F62F2];
+}
+
+.primary-text-gradient {
+  @apply bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent;
+}
+.text-p {
+  @apply text-[#001931];
+}
+.btn-one {
+  @apply bg-[#00D390] text-white
+  
+}
